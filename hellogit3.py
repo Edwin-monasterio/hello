@@ -1,1 +1,1 @@
-print("como que ajam")
+print("como que ajam ES JUEVES x2")
