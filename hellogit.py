@@ -1,0 +1,1 @@
+print("Hola de nuevo la he cagado xd volvi a iniciar")
