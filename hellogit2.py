@@ -1,1 +1,1 @@
-print("Dios mio estudiar programacion no esta facil ")
+print("Dios mio estudiar programacion no esta facil ya me dolio la cabeza  ")
