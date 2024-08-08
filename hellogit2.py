@@ -1,0 +1,1 @@
+print("Dios mio estudiar programacion no esta facil ")
